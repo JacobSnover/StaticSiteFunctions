@@ -1,0 +1,1 @@
+﻿namespace StaticSiteFunctions.Constants{public static class Statics{}}
